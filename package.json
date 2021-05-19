@@ -1,0 +1,22 @@
+{
+  "name": "layout",
+  "version": "0.0.1",
+  "description": "Simple layout example",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/Layout.git"
+  },
+  "keywords": [
+    "layout"
+  ],
+  "author": "therealtoresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/Layout/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/Layout#readme"
+}
